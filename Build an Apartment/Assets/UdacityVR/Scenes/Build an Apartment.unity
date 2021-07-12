@@ -319,7 +319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
-  triggerName: 
+  triggerName: ActivarMinutos
 --- !u!1001 &203879742
 Prefab:
   m_ObjectHideFlags: 0
