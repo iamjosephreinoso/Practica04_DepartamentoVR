@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Usuario/Downloads/VR-Scenes-and-Objects_Build-an-Apartment-4.3.1/Build an Apartment/APK/departamento.apk
+C:/Users/Usuario/Documents/GitHub/Practica04_DepartamentoVR/Practica04_DepartamentoVR/Build an Apartment/APK/DepartamentoVR.apk
 SceneListBegin?
 Assets/UdacityVR/Scenes/Build an Apartment.unity
 SceneListEnd?
